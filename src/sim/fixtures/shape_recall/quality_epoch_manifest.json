@@ -1,0 +1,32 @@
+{
+  "width": 128,
+  "height": 16,
+  "records": [
+    {
+      "frame": 4,
+      "expected": [
+        2,
+        628,
+        33,
+        96,
+        4,
+        13,
+        0
+      ],
+      "accepted_mask_sha256": "594cb5f6d4817e8fe4c0c90550224a49b05c538b61340662a7ede4db705d39c2"
+    },
+    {
+      "frame": 5,
+      "expected": [
+        2,
+        628,
+        33,
+        96,
+        4,
+        13,
+        0
+      ],
+      "accepted_mask_sha256": "594cb5f6d4817e8fe4c0c90550224a49b05c538b61340662a7ede4db705d39c2"
+    }
+  ]
+}

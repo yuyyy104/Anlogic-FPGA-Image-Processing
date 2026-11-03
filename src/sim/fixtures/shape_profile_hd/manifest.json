@@ -1,0 +1,59 @@
+{
+  "width": 1280,
+  "height": 720,
+  "mask_cleanup": 1,
+  "cases": [
+    {
+      "name": "hd_profile_missing_0.4",
+      "file": "00.mem",
+      "expected": [
+        2,
+        549600,
+        1,
+        1277,
+        2,
+        715,
+        0
+      ],
+      "stats": {
+        "area": 549600,
+        "width": 1277,
+        "height": 714,
+        "fill": 0.6027783078775755,
+        "rows": 714,
+        "top_span": 5108,
+        "bottom_span": 5108,
+        "top_points": 5108,
+        "bottom_points": 5108,
+        "outline": true
+      },
+      "sha256": "43b9b6927f8ada61a3f6c4d68aef9c207c4c105a5872a98418c5269f4911d0cc"
+    },
+    {
+      "name": "hd_profile_missing_0.5",
+      "file": "01.mem",
+      "expected": [
+        3,
+        459232,
+        1,
+        1277,
+        2,
+        715,
+        3
+      ],
+      "stats": {
+        "area": 459232,
+        "width": 1277,
+        "height": 714,
+        "fill": 0.5036664626696411,
+        "rows": 714,
+        "top_span": 5108,
+        "bottom_span": 5108,
+        "top_points": 5108,
+        "bottom_points": 5108,
+        "outline": true
+      },
+      "sha256": "c2a6610312ab4846a827200e25a93efa782af73aed99f59c70f4b102fad920d6"
+    }
+  ]
+}

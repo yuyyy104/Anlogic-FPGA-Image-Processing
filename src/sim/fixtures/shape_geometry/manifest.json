@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "rectangle_0",
+    "want": 2,
+    "reference": [
+      2,
+      21659,
+      71,
+      249,
+      68,
+      188,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_10",
+    "want": 2,
+    "reference": [
+      2,
+      21293,
+      63,
+      257,
+      54,
+      202,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_20",
+    "want": 2,
+    "reference": [
+      2,
+      21259,
+      57,
+      263,
+      42,
+      214,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_30",
+    "want": 2,
+    "reference": [
+      2,
+      21215,
+      54,
+      266,
+      33,
+      223,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_40",
+    "want": 2,
+    "reference": [
+      2,
+      21187,
+      54,
+      266,
+      26,
+      230,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_45",
+    "want": 2,
+    "reference": [
+      2,
+      21125,
+      56,
+      264,
+      24,
+      232,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_50",
+    "want": 2,
+    "reference": [
+      2,
+      21173,
+      58,
+      262,
+      22,
+      234,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_60",
+    "want": 2,
+    "reference": [
+      2,
+      21171,
+      65,
+      255,
+      22,
+      234,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_70",
+    "want": 2,
+    "reference": [
+      2,
+      21189,
+      74,
+      246,
+      24,
+      232,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_80",
+    "want": 2,
+    "reference": [
+      2,
+      21197,
+      87,
+      233,
+      30,
+      226,
+      0
+    ]
+  },
+  {
+    "name": "rectangle_90",
+    "want": 2,
+    "reference": [
+      2,
+      21475,
+      101,
+      219,
+      38,
+      218,
+      0
+    ]
+  },
+  {
+    "name": "square_0",
+    "want": 2,
+    "reference": [
+      2,
+      16899,
+      96,
+      224,
+      63,
+      193,
+      0
+    ]
+  },
+  {
+    "name": "square_10",
+    "want": 2,
+    "reference": [
+      2,
+      16605,
+      86,
+      234,
+      54,
+      202,
+      0
+    ]
+  },
+  {
+    "name": "square_20",
+    "want": 2,
+    "reference": [
+      2,
+      16557,
+      78,
+      242,
+      46,
+      210,
+      0
+    ]
+  },
+  {
+    "name": "square_30",
+    "want": 2,
+    "reference": [
+      2,
+      16547,
+      73,
+      247,
+      41,
+      215,
+      0
+    ]
+  },
+  {
+    "name": "square_40",
+    "want": 2,
+    "reference": [
+      2,
+      16541,
+      70,
+      250,
+      38,
+      218,
+      0
+    ]
+  },
+  {
+    "name": "square_45",
+    "want": 2,
+    "reference": [
+      2,
+      16381,
+      70,
+      250,
+      38,
+      218,
+      0
+    ]
+  },
+  {
+    "name": "square_50",
+    "want": 2,
+    "reference": [
+      2,
+      16541,
+      70,
+      250,
+      38,
+      218,
+      0
+    ]
+  },
+  {
+    "name": "square_60",
+    "want": 2,
+    "reference": [
+      2,
+      16547,
+      73,
+      247,
+      41,
+      215,
+      0
+    ]
+  },
+  {
+    "name": "square_70",
+    "want": 2,
+    "reference": [
+      2,
+      16557,
+      78,
+      242,
+      46,
+      210,
+      0
+    ]
+  },
+  {
+    "name": "square_80",
+    "want": 2,
+    "reference": [
+      2,
+      16605,
+      86,
+      234,
+      54,
+      202,
+      0
+    ]
+  },
+  {
+    "name": "square_90",
+    "want": 2,
+    "reference": [
+      2,
+      16899,
+      96,
+      224,
+      63,
+      193,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_0",
+    "want": 2,
+    "reference": [
+      2,
+      11343,
+      61,
+      259,
+      100,
+      156,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_10",
+    "want": 2,
+    "reference": [
+      2,
+      11025,
+      58,
+      262,
+      84,
+      172,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_20",
+    "want": 2,
+    "reference": [
+      2,
+      10955,
+      58,
+      262,
+      69,
+      187,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_30",
+    "want": 2,
+    "reference": [
+      2,
+      10905,
+      61,
+      259,
+      55,
+      201,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_40",
+    "want": 2,
+    "reference": [
+      2,
+      10857,
+      67,
+      253,
+      44,
+      212,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_45",
+    "want": 2,
+    "reference": [
+      2,
+      10819,
+      71,
+      249,
+      39,
+      217,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_50",
+    "want": 2,
+    "reference": [
+      2,
+      10823,
+      76,
+      244,
+      35,
+      221,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_60",
+    "want": 2,
+    "reference": [
+      2,
+      10797,
+      88,
+      232,
+      29,
+      227,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_70",
+    "want": 2,
+    "reference": [
+      2,
+      10783,
+      101,
+      219,
+      26,
+      230,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_80",
+    "want": 2,
+    "reference": [
+      2,
+      10789,
+      117,
+      203,
+      26,
+      230,
+      0
+    ]
+  },
+  {
+    "name": "long_rectangle_90",
+    "want": 2,
+    "reference": [
+      2,
+      10913,
+      133,
+      187,
+      28,
+      228,
+      0
+    ]
+  },
+  {
+    "name": "circle_0",
+    "want": 1,
+    "reference": [
+      1,
+      13013,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_10",
+    "want": 1,
+    "reference": [
+      1,
+      13009,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_20",
+    "want": 1,
+    "reference": [
+      1,
+      13001,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_30",
+    "want": 1,
+    "reference": [
+      1,
+      13009,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_40",
+    "want": 1,
+    "reference": [
+      1,
+      13013,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_45",
+    "want": 1,
+    "reference": [
+      1,
+      12989,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_50",
+    "want": 1,
+    "reference": [
+      1,
+      13009,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_60",
+    "want": 1,
+    "reference": [
+      1,
+      13005,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_70",
+    "want": 1,
+    "reference": [
+      1,
+      13009,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_80",
+    "want": 1,
+    "reference": [
+      1,
+      13009,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "circle_90",
+    "want": 1,
+    "reference": [
+      1,
+      13013,
+      96,
+      224,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_0",
+    "want": 1,
+    "reference": [
+      1,
+      16713,
+      71,
+      249,
+      69,
+      187,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_10",
+    "want": 1,
+    "reference": [
+      1,
+      16719,
+      72,
+      248,
+      67,
+      189,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_20",
+    "want": 1,
+    "reference": [
+      1,
+      16705,
+      74,
+      246,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_30",
+    "want": 1,
+    "reference": [
+      1,
+      16695,
+      78,
+      242,
+      60,
+      196,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_40",
+    "want": 1,
+    "reference": [
+      1,
+      16655,
+      83,
+      237,
+      55,
+      201,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_45",
+    "want": 1,
+    "reference": [
+      1,
+      16665,
+      85,
+      235,
+      52,
+      204,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_50",
+    "want": 1,
+    "reference": [
+      1,
+      16635,
+      88,
+      232,
+      50,
+      206,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_60",
+    "want": 1,
+    "reference": [
+      1,
+      16635,
+      93,
+      227,
+      45,
+      211,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_70",
+    "want": 1,
+    "reference": [
+      1,
+      16613,
+      97,
+      223,
+      41,
+      215,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_80",
+    "want": 1,
+    "reference": [
+      1,
+      16607,
+      100,
+      220,
+      39,
+      217,
+      0
+    ]
+  },
+  {
+    "name": "ellipse_90",
+    "want": 1,
+    "reference": [
+      1,
+      16591,
+      101,
+      219,
+      39,
+      217,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_0",
+    "want": 2,
+    "reference": [
+      2,
+      14574,
+      71,
+      249,
+      68,
+      188,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_10",
+    "want": 2,
+    "reference": [
+      2,
+      14000,
+      63,
+      257,
+      54,
+      202,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_20",
+    "want": 2,
+    "reference": [
+      2,
+      13934,
+      57,
+      263,
+      42,
+      214,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_30",
+    "want": 2,
+    "reference": [
+      2,
+      13872,
+      54,
+      266,
+      33,
+      223,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_40",
+    "want": 2,
+    "reference": [
+      2,
+      13822,
+      54,
+      266,
+      26,
+      230,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_45",
+    "want": 2,
+    "reference": [
+      2,
+      13772,
+      56,
+      264,
+      24,
+      232,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_50",
+    "want": 2,
+    "reference": [
+      2,
+      13796,
+      58,
+      262,
+      22,
+      234,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_60",
+    "want": 2,
+    "reference": [
+      2,
+      13796,
+      65,
+      255,
+      22,
+      234,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_70",
+    "want": 2,
+    "reference": [
+      2,
+      13812,
+      74,
+      246,
+      24,
+      232,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_80",
+    "want": 2,
+    "reference": [
+      2,
+      13836,
+      87,
+      233,
+      30,
+      226,
+      0
+    ]
+  },
+  {
+    "name": "damaged_rectangle_90",
+    "want": 2,
+    "reference": [
+      2,
+      14306,
+      101,
+      219,
+      38,
+      218,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_0",
+    "want": 2,
+    "reference": [
+      2,
+      20738,
+      71,
+      249,
+      68,
+      188,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_10",
+    "want": 2,
+    "reference": [
+      2,
+      20311,
+      63,
+      257,
+      54,
+      201,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_20",
+    "want": 2,
+    "reference": [
+      2,
+      20405,
+      57,
+      263,
+      42,
+      214,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_30",
+    "want": 2,
+    "reference": [
+      2,
+      20340,
+      54,
+      266,
+      33,
+      223,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_40",
+    "want": 2,
+    "reference": [
+      2,
+      20263,
+      54,
+      266,
+      26,
+      230,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_45",
+    "want": 2,
+    "reference": [
+      2,
+      20261,
+      56,
+      264,
+      24,
+      232,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_50",
+    "want": 2,
+    "reference": [
+      2,
+      20108,
+      58,
+      262,
+      22,
+      234,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_60",
+    "want": 2,
+    "reference": [
+      2,
+      20269,
+      65,
+      255,
+      22,
+      234,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_70",
+    "want": 2,
+    "reference": [
+      2,
+      20313,
+      74,
+      245,
+      24,
+      231,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_80",
+    "want": 2,
+    "reference": [
+      2,
+      20304,
+      87,
+      233,
+      31,
+      226,
+      0
+    ]
+  },
+  {
+    "name": "noisy_rectangle_90",
+    "want": 2,
+    "reference": [
+      2,
+      20493,
+      101,
+      219,
+      38,
+      218,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_0",
+    "want": 1,
+    "reference": [
+      1,
+      15973,
+      72,
+      249,
+      69,
+      187,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_10",
+    "want": 1,
+    "reference": [
+      1,
+      15914,
+      72,
+      248,
+      67,
+      189,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_20",
+    "want": 1,
+    "reference": [
+      1,
+      16024,
+      74,
+      246,
+      64,
+      192,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_30",
+    "want": 1,
+    "reference": [
+      1,
+      15969,
+      78,
+      242,
+      60,
+      196,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_40",
+    "want": 1,
+    "reference": [
+      1,
+      15928,
+      83,
+      237,
+      55,
+      201,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_45",
+    "want": 1,
+    "reference": [
+      1,
+      15928,
+      85,
+      235,
+      52,
+      204,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_50",
+    "want": 1,
+    "reference": [
+      1,
+      15788,
+      88,
+      232,
+      50,
+      206,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_60",
+    "want": 1,
+    "reference": [
+      1,
+      15941,
+      93,
+      227,
+      45,
+      211,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_70",
+    "want": 1,
+    "reference": [
+      1,
+      15883,
+      97,
+      223,
+      41,
+      215,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_80",
+    "want": 1,
+    "reference": [
+      1,
+      15912,
+      100,
+      220,
+      39,
+      217,
+      0
+    ]
+  },
+  {
+    "name": "noisy_circle_90",
+    "want": 1,
+    "reference": [
+      1,
+      15819,
+      101,
+      219,
+      39,
+      217,
+      0
+    ]
+  },
+  {
+    "name": "empty",
+    "want": 0,
+    "reference": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "speckles",
+    "want": 0,
+    "reference": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "sparse_stripes",
+    "want": 3,
+    "reference": [
+      3,
+      3042,
+      61,
+      265,
+      41,
+      209,
+      3
+    ]
+  }
+]

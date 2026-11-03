@@ -1,0 +1,35 @@
+# Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+# -- Compiling module PH1P_LOGIC_ERAM
+# 
+# Top level modules:
+# 	PH1P_LOGIC_ERAM
+# Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+# -- Compiling module shared_denoise
+# 
+# Top level modules:
+# 	shared_denoise
+# Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+# -- Compiling module tb_shared_denoise
+# 
+# Top level modules:
+# 	tb_shared_denoise
+# vsim -voptargs=+acc work.tb_shared_denoise 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading work.tb_shared_denoise(fast)
+# Loading work.shared_denoise(fast)
+# Loading work.PH1P_LOGIC_ERAM(fast)
+# PASS shared_denoise checks=1646 geometry=16x8 restarts=3
+# ** Note: $finish    : D:/fpga_2/temp/github_verify_20261103/src/sim/tb_shared_denoise.v(97)
+#    Time: 16510 ns  Iteration: 1  Instance: /tb_shared_denoise
+# Break in Module tb_shared_denoise at D:/fpga_2/temp/github_verify_20261103/src/sim/tb_shared_denoise.v line 97
+# Stopped at D:/fpga_2/temp/github_verify_20261103/src/sim/tb_shared_denoise.v line 97 

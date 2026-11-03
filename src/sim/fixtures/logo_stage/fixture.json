@@ -1,0 +1,8 @@
+{
+  "source": "prj/td/lab_ex3_sc520/user_source/hdl_source/anlogic_logo_rom.v",
+  "source_sha256": "37c76680345f17a85632b7835e46a3a197cf75fdd91ca6a970b75f5346e7a9f8",
+  "entries": 25600,
+  "opaque_entries": 6387,
+  "memory_sha256": "cc319419dfd29e67542fc85691722164e1fbb71554ed3aefa245d780e3bfd39b",
+  "oracle": "independent ROM case literal extraction; no DUT signal used"
+}

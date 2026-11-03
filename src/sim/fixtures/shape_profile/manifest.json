@@ -1,0 +1,267 @@
+{
+  "width": 128,
+  "height": 96,
+  "mask_cleanup": 0,
+  "cases": [
+    {
+      "name": "endpoint_span_25",
+      "file": "00.mem",
+      "expected": [
+        2,
+        984,
+        40,
+        79,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 984,
+        "width": 40,
+        "height": 40,
+        "fill": 0.615,
+        "rows": 40,
+        "top_span": 100,
+        "bottom_span": 100,
+        "top_points": 100,
+        "bottom_points": 100,
+        "outline": true
+      },
+      "sha256": "42cce302e20d0e5adbc2a99925bca8ea9ac5c5351d048566d35bb887b98486ed"
+    },
+    {
+      "name": "endpoint_span_24",
+      "file": "01.mem",
+      "expected": [
+        1,
+        983,
+        40,
+        79,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 983,
+        "width": 40,
+        "height": 40,
+        "fill": 0.614375,
+        "rows": 40,
+        "top_span": 99,
+        "bottom_span": 100,
+        "top_points": 99,
+        "bottom_points": 100,
+        "outline": false
+      },
+      "sha256": "859b5aedb9441f52fbc7d6271862fa1e2079c761337353639731d7f7335f64be"
+    },
+    {
+      "name": "endpoint_points_20",
+      "file": "02.mem",
+      "expected": [
+        2,
+        928,
+        40,
+        79,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 928,
+        "width": 40,
+        "height": 40,
+        "fill": 0.58,
+        "rows": 40,
+        "top_span": 160,
+        "bottom_span": 160,
+        "top_points": 80,
+        "bottom_points": 80,
+        "outline": true
+      },
+      "sha256": "159280d0b6b7f49e264274a6a60fc11c332fc8ec82afcc828a03eca99df3b55c"
+    },
+    {
+      "name": "endpoint_points_19",
+      "file": "03.mem",
+      "expected": [
+        1,
+        927,
+        40,
+        79,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 927,
+        "width": 40,
+        "height": 40,
+        "fill": 0.579375,
+        "rows": 40,
+        "top_span": 160,
+        "bottom_span": 160,
+        "top_points": 79,
+        "bottom_points": 80,
+        "outline": false
+      },
+      "sha256": "c5c171f757d893dff56502d27d820ca8754bad3570368350eed3491ae61221ff"
+    },
+    {
+      "name": "min_dimensions_32x40",
+      "file": "04.mem",
+      "expected": [
+        2,
+        864,
+        40,
+        71,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 864,
+        "width": 32,
+        "height": 40,
+        "fill": 0.675,
+        "rows": 40,
+        "top_span": 128,
+        "bottom_span": 128,
+        "top_points": 128,
+        "bottom_points": 128,
+        "outline": true
+      },
+      "sha256": "7e91925194d4f2570ac8aa42e7254dbf961274321e46f04cfd321267b768a053"
+    },
+    {
+      "name": "min_dimensions_31x40",
+      "file": "05.mem",
+      "expected": [
+        1,
+        824,
+        40,
+        70,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 824,
+        "width": 31,
+        "height": 40,
+        "fill": 0.6645161290322581,
+        "rows": 40,
+        "top_span": 124,
+        "bottom_span": 124,
+        "top_points": 124,
+        "bottom_points": 124,
+        "outline": false
+      },
+      "sha256": "bf7de6c960ca6ac90e73e64fae03b216caf54df6eae4c154c8f6312743e510a6"
+    },
+    {
+      "name": "min_dimensions_40x32",
+      "file": "06.mem",
+      "expected": [
+        2,
+        896,
+        40,
+        79,
+        20,
+        51,
+        0
+      ],
+      "stats": {
+        "area": 896,
+        "width": 40,
+        "height": 32,
+        "fill": 0.7,
+        "rows": 32,
+        "top_span": 160,
+        "bottom_span": 160,
+        "top_points": 160,
+        "bottom_points": 160,
+        "outline": true
+      },
+      "sha256": "4d539377f9a76f7d176f228e93a5cf3ebe6d400a9fd650bb5046cbbd606e6a64"
+    },
+    {
+      "name": "min_dimensions_40x31",
+      "file": "07.mem",
+      "expected": [
+        1,
+        872,
+        40,
+        79,
+        20,
+        50,
+        0
+      ],
+      "stats": {
+        "area": 872,
+        "width": 40,
+        "height": 31,
+        "fill": 0.7032258064516129,
+        "rows": 31,
+        "top_span": 160,
+        "bottom_span": 160,
+        "top_points": 160,
+        "bottom_points": 160,
+        "outline": false
+      },
+      "sha256": "48ac7c8dc83a471b9da93b390854430fd04354680c907fcc8c8c3fc123024fb6"
+    },
+    {
+      "name": "profile_fill_900",
+      "file": "08.mem",
+      "expected": [
+        2,
+        900,
+        40,
+        79,
+        20,
+        59,
+        0
+      ],
+      "stats": {
+        "area": 900,
+        "width": 40,
+        "height": 40,
+        "fill": 0.5625,
+        "rows": 40,
+        "top_span": 160,
+        "bottom_span": 160,
+        "top_points": 160,
+        "bottom_points": 160,
+        "outline": true
+      },
+      "sha256": "03e6b3e380c497b670d794398bb6c081aabb8ece17edc7ecbffa23f150d323bd"
+    },
+    {
+      "name": "profile_fill_899",
+      "file": "09.mem",
+      "expected": [
+        3,
+        899,
+        40,
+        79,
+        20,
+        59,
+        3
+      ],
+      "stats": {
+        "area": 899,
+        "width": 40,
+        "height": 40,
+        "fill": 0.561875,
+        "rows": 40,
+        "top_span": 160,
+        "bottom_span": 160,
+        "top_points": 160,
+        "bottom_points": 160,
+        "outline": true
+      },
+      "sha256": "c507b328ccfbeddbed2d549df925f6c6be45ee17f724ff68733c103689e9c132"
+    }
+  ]
+}

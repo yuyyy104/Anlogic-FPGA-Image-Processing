@@ -1,0 +1,356 @@
+{
+  "width": 512,
+  "height": 256,
+  "cases": [
+    {
+      "name": "rect",
+      "file": "00.mem",
+      "expected": [
+        2,
+        80000,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "53df54df49ef8ae0a2ea464a0486e994f32c49b63c4df397ac94b13c71238e7a"
+    },
+    {
+      "name": "circle",
+      "file": "01.mem",
+      "expected": [
+        1,
+        31017,
+        157,
+        355,
+        29,
+        227,
+        0
+      ],
+      "sha256": "e2f9878598c93df811768ec8713bfba914feaaa868b5c485d1b901c22ec43a3f"
+    },
+    {
+      "name": "circle_6px_clusters",
+      "file": "02.mem",
+      "expected": [
+        1,
+        30572,
+        157,
+        355,
+        29,
+        227,
+        0
+      ],
+      "sha256": "77ff3cc7e69795b499a931d2abe6d66b56422b61f8e3236d58f1f96de58c80e0"
+    },
+    {
+      "name": "rect_6px_clusters",
+      "file": "03.mem",
+      "expected": [
+        2,
+        78103,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "bc81cbaa36582850967e8e4114f5adc47f1520df2a4eba278e3acddfb0aafd1c"
+    },
+    {
+      "name": "trapezoid_6px_clusters",
+      "file": "04.mem",
+      "expected": [
+        2,
+        34235,
+        29,
+        226,
+        28,
+        227,
+        0
+      ],
+      "sha256": "a838b757e1d3b1479b1169f466435a8d8a3fe08e9e7669de00a5bf78a05913d5"
+    },
+    {
+      "name": "ring",
+      "file": "05.mem",
+      "expected": [
+        3,
+        18198,
+        157,
+        355,
+        29,
+        227,
+        1
+      ],
+      "sha256": "fda0cdb05cd0d39e5a8b691865ad4f7da2c235715829abbf352afe644ed8b67f"
+    },
+    {
+      "name": "vertical_crack",
+      "file": "06.mem",
+      "expected": [
+        3,
+        79400,
+        11,
+        410,
+        10,
+        209,
+        1
+      ],
+      "sha256": "d66edd79e61aab826ba866734295b84cd76b1bb830f5ef0a14781a158b055f12"
+    },
+    {
+      "name": "horizontal_crack",
+      "file": "07.mem",
+      "expected": [
+        3,
+        79600,
+        11,
+        410,
+        10,
+        209,
+        2
+      ],
+      "sha256": "18895c65010e453593fc97fd1861c08f3d9a59c7fc6fb7e040ac4c2af6d74707"
+    },
+    {
+      "name": "diagonal_crack",
+      "file": "08.mem",
+      "expected": [
+        3,
+        79796,
+        11,
+        410,
+        10,
+        209,
+        1
+      ],
+      "sha256": "3b30e6ec21b1c7f2ad6f65e9cfd8be66613c105e073c0166b81aa3da607c94c1"
+    },
+    {
+      "name": "gap_12x1",
+      "file": "09.mem",
+      "expected": [
+        2,
+        79988,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "1da6e1cbda36df1c91cf445888acae6e420532c34307828222f61bcc8ff6a56d"
+    },
+    {
+      "name": "gap_13x1",
+      "file": "10.mem",
+      "expected": [
+        3,
+        79987,
+        11,
+        410,
+        10,
+        209,
+        1
+      ],
+      "sha256": "dec01f42ed8115a389485205db2e23c9bb4bf3b51022b8cda5473aa0925c8222"
+    },
+    {
+      "name": "gap_1x16",
+      "file": "11.mem",
+      "expected": [
+        2,
+        79958,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "4c7eae4ef9c8ac9d210f85c7cc523b0a77724df6304796517fb73f0a1400e4bc"
+    },
+    {
+      "name": "gap_1x17",
+      "file": "12.mem",
+      "expected": [
+        3,
+        79955,
+        11,
+        410,
+        10,
+        209,
+        1
+      ],
+      "sha256": "3883400b3cacf71e277428d101e40398173069daffc49830e27aaf0d15ad978d"
+    },
+    {
+      "name": "slots_16",
+      "file": "13.mem",
+      "expected": [
+        2,
+        80000,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "c5f55f37f956f32cb0dd7a76ae200c126fc3a2a17f6c3294fbcc5f66df77e48f"
+    },
+    {
+      "name": "slots_17",
+      "file": "14.mem",
+      "expected": [
+        3,
+        80000,
+        11,
+        410,
+        10,
+        209,
+        6
+      ],
+      "sha256": "975a15fe6db70fddb62efebfc759dd636e9de4ec6185b836180795fd88c85294"
+    },
+    {
+      "name": "hole_budget_0",
+      "file": "15.mem",
+      "expected": [
+        2,
+        69980,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "5192dafd188cd472ae039dc6c783296fd7113721923fd27cfe17a948c769776c"
+    },
+    {
+      "name": "hole_budget_1",
+      "file": "16.mem",
+      "expected": [
+        3,
+        69979,
+        11,
+        410,
+        10,
+        209,
+        5
+      ],
+      "sha256": "a1bf14b3d7582e124447b080c04216661cb2bd044e241a29ceef56c00b104b9e"
+    },
+    {
+      "name": "border_0",
+      "file": "17.mem",
+      "expected": [
+        2,
+        4152,
+        101,
+        298,
+        0,
+        20,
+        0
+      ],
+      "sha256": "ebe2147cd32c1a59ab432654e1746e88b3d4d3e226a0b3517c170aa07cb6a204"
+    },
+    {
+      "name": "border_253",
+      "file": "18.mem",
+      "expected": [
+        2,
+        4154,
+        101,
+        298,
+        233,
+        253,
+        0
+      ],
+      "sha256": "39e49a89e53c68930bbaead2b553dce4d64780d43db655921dc2f0342fd757f0"
+    },
+    {
+      "name": "triangle_tracking_base",
+      "file": "19.mem",
+      "expected": [
+        3,
+        12321,
+        146,
+        366,
+        129,
+        239,
+        3
+      ],
+      "sha256": "33d04774d3edaa18be5378a5cdd4be7e26ba229f40772347bcf7bab6e7de5274"
+    },
+    {
+      "name": "triangle_caption_outlier",
+      "file": "20.mem",
+      "expected": [
+        3,
+        12324,
+        81,
+        366,
+        15,
+        239,
+        2
+      ],
+      "sha256": "ef918f8357d1c07da2578dae336b4ac7e11a49138fcc285dbde0c31ad7642570"
+    },
+    {
+      "name": "last_column_open_chain_forward",
+      "file": "21.mem",
+      "expected": [
+        2,
+        99298,
+        11,
+        509,
+        10,
+        209,
+        0
+      ],
+      "sha256": "2b462f858eeafdd7a071b97170b87d9ac6fe9b5855db851323e9ca8e083d5fa3"
+    },
+    {
+      "name": "last_visible_row_wide_gap",
+      "file": "22.mem",
+      "expected": [
+        3,
+        121743,
+        11,
+        509,
+        10,
+        253,
+        1
+      ],
+      "sha256": "91acfcc730ce0e70540674d269751b102574821cc05d8b4b18fcc5e0ae752dfb"
+    },
+    {
+      "name": "dense_slots_16",
+      "file": "23.mem",
+      "expected": [
+        2,
+        80000,
+        11,
+        410,
+        10,
+        209,
+        0
+      ],
+      "sha256": "42df88483a93c189a58a9356a25dd769cff68e1f26f2dc5b8866ada2ca2cd10f"
+    },
+    {
+      "name": "dense_slots_17",
+      "file": "24.mem",
+      "expected": [
+        3,
+        80000,
+        11,
+        410,
+        10,
+        209,
+        6
+      ],
+      "sha256": "57a956f359fd213714c151fd5bad035d7f14079e8f7e9ad9907b08115dbe7b15"
+    }
+  ]
+}

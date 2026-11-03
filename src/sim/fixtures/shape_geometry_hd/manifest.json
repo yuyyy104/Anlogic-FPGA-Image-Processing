@@ -1,0 +1,50 @@
+[
+  {
+    "name": "perspective_four_edges",
+    "expected": [
+      2,
+      427895,
+      61,
+      1219,
+      29,
+      689,
+      0
+    ]
+  },
+  {
+    "name": "large_circle",
+    "expected": [
+      1,
+      320377,
+      321,
+      959,
+      41,
+      679,
+      0
+    ]
+  },
+  {
+    "name": "full_span_max_rows",
+    "expected": [
+      2,
+      911625,
+      3,
+      1277,
+      2,
+      716,
+      0
+    ]
+  },
+  {
+    "name": "empty",
+    "expected": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

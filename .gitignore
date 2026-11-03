@@ -1,0 +1,10 @@
+/tmp/
+**/*_Runs/
+__pycache__/
+*.pyc
+*.log
+*.logw
+transcript
+.local_paths.json
+/src/sim/fixtures/**/*.mem
+/src/sim/fixtures/*.mem

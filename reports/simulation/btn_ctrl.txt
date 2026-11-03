@@ -1,0 +1,29 @@
+# Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+# -- Compiling module btn_mode_ctrl
+# 
+# Top level modules:
+# 	btn_mode_ctrl
+# Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+# -- Compiling module tb_btn_ctrl
+# 
+# Top level modules:
+# 	tb_btn_ctrl
+# vsim -voptargs=+acc work.tb_btn_ctrl 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading work.tb_btn_ctrl(fast)
+# Loading work.btn_mode_ctrl(fast)
+# PASS btn_ctrl checks=22 KEY1_MODE_KEY2_THRESHOLD_KEY34_DISABLED
+# ** Note: $finish    : D:/fpga_2/temp/github_verify_20261103/src/sim/tb_btn_ctrl.v(123)
+#    Time: 1943150486 ps  Iteration: 1  Instance: /tb_btn_ctrl
+# Break in Module tb_btn_ctrl at D:/fpga_2/temp/github_verify_20261103/src/sim/tb_btn_ctrl.v line 123
+# Stopped at D:/fpga_2/temp/github_verify_20261103/src/sim/tb_btn_ctrl.v line 123 

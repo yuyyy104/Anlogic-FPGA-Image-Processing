@@ -1,0 +1,49 @@
+function [25:0] expected_color_shape; input integer f,s; begin expected_color_shape=0;case(f*4+s)
+0:expected_color_shape=26'h1202fc0;
+1:expected_color_shape=26'h09020a0;
+2:expected_color_shape=26'h1b01650;
+3:expected_color_shape=26'h24012c0;
+4:expected_color_shape=26'h1202c50;
+5:expected_color_shape=26'h0901e60;
+6:expected_color_shape=26'h1b01530;
+7:expected_color_shape=26'h2401210;
+8:expected_color_shape=26'h1202a20;
+9:expected_color_shape=26'h0901c10;
+10:expected_color_shape=26'h1b01470;
+11:expected_color_shape=26'h2401110;
+12:expected_color_shape=26'h1202880;
+13:expected_color_shape=26'h0901ba0;
+14:expected_color_shape=26'h1b01250;
+15:expected_color_shape=26'h2400f80;
+endcase end endfunction
+function [47:0] expected_box; input integer f,s;begin expected_box=0;case(f*4+s)
+0:expected_box=48'h0b416400c098;
+1:expected_box=48'h02408801c080;
+2:expected_box=48'h17c1e001c080;
+3:expected_box=48'h0cc13c0a00f0;
+4:expected_box=48'h0b4164010094;
+5:expected_box=48'h02408801c080;
+6:expected_box=48'h17c1e001c080;
+7:expected_box=48'h0cc13c0a00f0;
+8:expected_box=48'h0b416400c098;
+9:expected_box=48'h02408801c080;
+10:expected_box=48'h17c1e001c080;
+11:expected_box=48'h0cc13c0a00f0;
+12:expected_box=48'h0b4164010094;
+13:expected_box=48'h02408801c080;
+14:expected_box=48'h17c1dc01c080;
+15:expected_box=48'h0cc13c0a00f0;
+endcase end endfunction
+localparam CASES=4;
+function [7:0] expected_total; input integer f;begin expected_total=0;case(f)
+0:expected_total=4;
+1:expected_total=4;
+2:expected_total=4;
+3:expected_total=4;
+endcase end endfunction
+function [2047:0] fixture_name; input integer f;begin case(f)
+0:fixture_name="D:/codex_project/FPGA_competiton/src/sim/fixtures/color_shapes_noise/noise_5.mem";
+1:fixture_name="D:/codex_project/FPGA_competiton/src/sim/fixtures/color_shapes_noise/noise_10.mem";
+2:fixture_name="D:/codex_project/FPGA_competiton/src/sim/fixtures/color_shapes_noise/noise_15.mem";
+3:fixture_name="D:/codex_project/FPGA_competiton/src/sim/fixtures/color_shapes_noise/noise_20.mem";
+default:fixture_name="";endcase end endfunction
